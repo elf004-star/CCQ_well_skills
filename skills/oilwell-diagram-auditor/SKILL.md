@@ -1,6 +1,6 @@
 ---
 name: oilwell-diagram-auditor
-description: Professional auditor for oil/gas wellbore diagrams. Automatically activates whenever engineering data (stratigraphy, casing, bit, pressure profiles) and a diagram image are provided together. It cross-verifies raw data against visual elements to identify discrepancies and issues a 5-section Audit Report with a final verdict: APPROVED, NEEDS REVISION, or REJECTED. Note: This tool performs auditing/QC only and does not generate diagrams.
+description: "Professional auditor for oil/gas wellbore diagrams. Automatically activates whenever engineering data (stratigraphy, casing, bit, pressure profiles) and a diagram image are provided together. It cross-verifies raw data against visual elements to identify discrepancies and issues a 5-section Audit Report with a final verdict: APPROVED, NEEDS REVISION, or REJECTED. Note: This tool performs auditing/QC only and does not generate diagrams."
 ---
 
 # Well Structure Expert - Audit Skill
